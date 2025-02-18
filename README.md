@@ -1,1 +1,1 @@
-# hugo-kicking-the-tires
+# practicing using Hugo
