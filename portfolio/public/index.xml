@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clyve&#39;s Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Clyve&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 May 2025 13:56:10 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 12 May 2025 13:56:10 -0400</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 18 Feb 2025 03:43:26 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;This is my About page.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Résumé</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Tue, 18 Feb 2025 03:43:26 -0500</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h2 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h2&gt;&#xA;&lt;h3 id=&#34;senior-software-engineer&#34;&gt;Senior Software Engineer&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tech Company Inc.&lt;/strong&gt; | 2020 - Present&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Led development of key features&lt;/li&gt;&#xA;&lt;li&gt;Mentored junior developers&lt;/li&gt;&#xA;&lt;li&gt;Implemented CI/CD pipelines&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;software-engineer&#34;&gt;Software Engineer&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Startup Co.&lt;/strong&gt; | 2018 - 2020&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed full-stack applications&lt;/li&gt;&#xA;&lt;li&gt;Collaborated with cross-functional teams&lt;/li&gt;&#xA;&lt;li&gt;Optimized database performance&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;&#xA;&lt;h3 id=&#34;bachelor-of-science-in-computer-science&#34;&gt;Bachelor of Science in Computer Science&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;University Name&lt;/strong&gt; | 2014 - 2018&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GPA: 3.8/4.0&lt;/li&gt;&#xA;&lt;li&gt;Relevant Coursework: Data Structures, Algorithms, Web Development&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Programming Languages: Python, JavaScript, Go&lt;/li&gt;&#xA;&lt;li&gt;Frameworks: React, Django, Hugo&lt;/li&gt;&#xA;&lt;li&gt;Tools: Git, Docker, AWS&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
